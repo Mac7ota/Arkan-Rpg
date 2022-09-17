@@ -1,0 +1,9 @@
+.magia {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    transition: 0.2;
+}
+.magia:hover{
+    color: rgb(228, 84, 1);
+}
